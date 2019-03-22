@@ -4,9 +4,16 @@
 }
 
 body {
-  color: lightblue;
+  color: #000;
   font-family: 'Open Sans', sans-serif;
 }
+
+form {
+  text-align: center;
+  padding-top: 3em;
+
+}
+
 
 img {
   max-width: 100%;
@@ -21,6 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3em;
   text-align: center;
+  color: red;
   margin: .5em 0 .25em;
 }
 
@@ -64,4 +72,14 @@ footer {
   color: #fff;
   padding: 2em 1em;
   text-align: center;
+}
+
+#sendbutton {
+  background-color: red;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+  width: 5em;
+  height: 2em;
+  border-radius: 10px;
 }
