@@ -6,12 +6,12 @@
 body {
   color: #000;
   font-family: 'Open Sans', sans-serif;
+  background-color: yellow;
 }
 
 form {
   text-align: center;
   padding-top: 3em;
-
 }
 
 
